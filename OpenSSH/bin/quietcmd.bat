@@ -1,0 +1,1 @@
+@c:\winnt\system32\cmd.exe /q
